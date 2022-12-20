@@ -26,3 +26,7 @@ const start = async () => {
 };
 
 start();
+
+
+
+// https://node-api-production-1adf.up.railway.app/products
